@@ -1,2 +1,2 @@
 # Mobile-Wala-online-site
-website for selling mobiles online by using html, css, javascript.
+A site for Re-Selling Mobile Phones.
